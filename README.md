@@ -1,4 +1,4 @@
-# keras_HACS
+# keras_HASC
 
 ## データセット
 - [Human Activity sencing consortium](http://hasc.jp/)
