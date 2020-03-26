@@ -9,5 +9,6 @@
 
 ## 参考
 - [Qiita](https://qiita.com/gomi-kuzu/items/9ee1fe6c20f6175f3a15)
+- [github](https://github.com/gomi-kuzu/HAR_DRNN)
 
 
