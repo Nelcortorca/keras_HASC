@@ -3,7 +3,8 @@
 ## データセット
 - [Human Activity sencing consortium](http://hasc.jp/)
 
-## やったこと
+## やりたいこと
+- gpuに対応したい（google colab環境に慣れる）
 - kerasのLSTMを用いた時系列分類
 - 分類結果の可視化（方法の検討、参考にはなかったので）
 
